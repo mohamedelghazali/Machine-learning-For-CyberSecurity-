@@ -16,7 +16,7 @@
 
 ## [↑](#table-of-contents) 贡献
 
-如果你想要添加工具或资源请参阅 [CONTRIBUTING](./CONTRIBUTING.md)
+如果你想要添加工具或资源请参阅 [CONTRIBUTING](./CONTRIBUTING.md) 
 
 ## [↑](#table-of-contents) 数据集
 
