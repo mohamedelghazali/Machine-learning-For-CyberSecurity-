@@ -7,7 +7,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
 - A link back to this list from yours, so users can discover more lists, would be appreciated.
 - Make an individual pull request for each suggestion.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html). 
 - Use the following format: `[List Name](link)`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
