@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+Please ensure your pull request adheres to the following guidelines: 
 
 - Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
