@@ -7,7 +7,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 ## Table of Contents
 
  - [Datasets](#-datasets)
- - [Papers](#-papers)
+ - [Papers](#-papers) 
  - [Books](#-books)
  - [Talks](#-talks)
  - [Tutorials](#-tutorials)
