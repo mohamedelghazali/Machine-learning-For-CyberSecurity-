@@ -10,7 +10,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
  - [Papers](#-papers) 
  - [Books](#-books)
  - [Talks](#-talks)
- - [Tutorials](#-tutorials)
+ - [Tutorials](#-tutorials) 
  - [Courses](#-courses)
  - [Miscellaneous](#-miscellaneous)
 
